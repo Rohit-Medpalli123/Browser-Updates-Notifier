@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+                    <html>
+                    <head>
+                        <style>
+                        table {
+                        border-collapse: collapse;
+                        width: 100%;
+                        }
+
+                    th, td {
+                    text-align: center;
+                    padding: 8px;
+                    font-weight: bold;
+                    }
+
+                    tr:nth-child(even){background-color: #f2f2f2}
+
+                    th {
+                    background-color: #4CAF50;
+                    color: white;
+                    }
+                    </style>
+                    </head>
+                    <body>
+
+                    <p>Hi Team,</p>
+
+                    <p>This bot works as a browser update notifier,please consider updating to latest version for the below 
+                    mentioned browser.</p>
+                    <h3>Version history Table:</h3>
+
+                <table>
+                  <tr>
+                    <th>Browser Name</th>
+                    <th>Browser Updated Version</th>
+                    <th>Browser current Version</th>
+                  </tr> $rows_with_data 
+                </table>
+
+                </body>
+                </html>

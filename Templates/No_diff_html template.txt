@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+                    <html>
+                    <head>
+					
+					
+					<link href="https://afeld.github.io/emoji-css/emoji.css" rel="stylesheet">
+
+                    </head>
+                    <body>
+
+                    <p>Hi Rohit,</p>
+
+                    <p>The browser versions update bot is working as expected. <i class="em-svg em---1"></i> </p> <p>No Updates available for browsers today.</p>
+			        
+					<p> Have a great day. <i class="em-svg em-slightly_smiling_face"></i> </p>
+
+
+                </body>
+                </html>
