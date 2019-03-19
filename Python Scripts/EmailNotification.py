@@ -101,9 +101,8 @@ class EmailOperation:
         self.msg.attach(self.part2)
 
         try:
-            # setup the email server,
-            self.server = smtplib.SMTP('smtp.gmail.com', 587)
-            self.server.starttls()
+            # setup the email server with secure connection
+            self.server = smtplib.SMTP_SSL('smtp.gmail.com', 465)
 
             #fetch email password stored as environment variable
             self.email_password = os.environ["BB"]
