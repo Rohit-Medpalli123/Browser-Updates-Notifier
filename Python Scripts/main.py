@@ -33,7 +33,7 @@ if __name__ == '__main__':
     #keep log of version updates for future use
     req_site_data.diff_result_log(differences_result)
 
-    # Instantiate the Site_Data object
+    # Instantiate the Send email object
     send_email = EmailOperation(differences_result, parser)
 
     if (len(differences_result)) != 0:
