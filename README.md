@@ -1,4 +1,4 @@
-# Browser Update Notifier
+# Browser Update Notifier [![Python 2.7](https://img.shields.io/badge/python-2.7-blue.svg)](https://www.python.org/downloads/release/python-360/)
 
 This is a notifier utility written in python 2.7 . Here this script visits a website (https://caniuse.com/usage-table) which maintains the browser update versions history (both Desktop and mobile browsers) and notifies the QA team about the updates.
 
