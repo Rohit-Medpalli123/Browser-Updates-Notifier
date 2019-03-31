@@ -1,1 +1,1 @@
-{u'Firefox': u'65', u'Firefox for Android': u'64', u'Chrome': u'72', u'iOS Safari': u'12.1', u'Chrome for Android': u'71', u'Edge': u'18', u'Safari': u'12', u'IE Mobile': u'11', u'Samsung Internet': u'8.2', u'IE': u'11'}
+{u'Firefox': u'66', u'Firefox for Android': u'64', u'Chrome': u'73', u'iOS Safari': u'12.1', u'Chrome for Android': u'71', u'Edge': u'18', u'Safari': u'12', u'IE Mobile': u'11', u'Samsung Internet': u'8.2', u'IE': u'11'}
