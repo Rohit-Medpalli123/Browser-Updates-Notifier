@@ -19,10 +19,10 @@ So the basic idea behind this project is to keep track of the latest browser upd
 3. Generates the HTML template which has the table with the required number of rows according to the differences in the compared data.
 4. Send EMAIL if there is the latest update available for a particular browser. 
 
-   ![Sample email template for available updates ](/Images/Updates.png "History")  
+   ![Sample email template for available updates ](/Images/Updates__.png "History")  
 5. If no update is available then send the email to the person who is maintaining the project.
 
-   ![email template for no available updates ](/Images/noupdates.JPG "History1")
+   ![email template for no available updates ](/Images/noupdates__.JPG "History1")
 
 6. Update the stored data and keep log of version updates.
 
