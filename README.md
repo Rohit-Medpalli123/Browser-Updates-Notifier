@@ -22,7 +22,7 @@ So the basic idea behind this project is to keep track of the latest browser upd
    ![Sample email template for available updates ](/Images/Updates__.png "History")  
 5. If no update is available then send the email to the person who is maintaining the project.
 
-   ![email template for no available updates ](/Images/noupdates__.JPG "History1")
+   ![email template for no available updates ](/Images/noupdates__.jpg "History1")
 
 6. Update the stored data and keep log of version updates.
 
